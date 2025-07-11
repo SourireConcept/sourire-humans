@@ -1,0 +1,22 @@
+/* 🇫🇷 ÉQUIPE — FRANÇAIS */
+Fondateur : Nasro (Nasserallah Berkoun)  
+Entreprise : Sourire Concept, LTD  
+Site : https://www.sourireconcept.fr  
+Contact : https://www.sourireconcept.fr/contact  
+Implantation : Royaume-Uni – USA – Europe  
+Mission : Sublimer les sourires avec innovation et éthique.
+
+Technologie :
+- Plateforme : Wix + modules personnalisés
+- Paiements : Stripe, WorldFirst
+
+Valeurs :
+- Beauté responsable
+- Expertise scientifique
+- Fabrication éthique
+
+Merci à : Wix, Stripe, WorldFirst  
+Dernière mise à jour : 11/07/2025
+
+/* CREDITS */
+Conçu avec ♥, précision 🧪 et ambition 🚀
